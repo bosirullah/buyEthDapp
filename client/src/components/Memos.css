@@ -1,0 +1,17 @@
+.container-fluid{
+    margin: 50px 80px;
+}
+
+table{
+    border-spacing: 0;
+}
+
+th{
+    border: 1px solid white
+}
+
+td{
+    /* border: 1px solid black; */
+    border-collapse: collapse;
+    color: black,
+}
